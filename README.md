@@ -870,8 +870,8 @@ BlazorServer in .NET Core   step by step
 
 ## Videos
 * [https://blazor.net](https://blazor.net) - https://blazor.net
-* [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
-* [Microsoft Learning Center](https://dotnet.microsoft.com/learn/aspnet)
+* [https://blazor-university.com/](https://blazor-university.com/) - LEARN THE NEW .NET SPA FRAMEWORK FROM MICROSOFT
+* [https://blazor-tutorial.net/](https://blazor-tutorial.net/)
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
 
