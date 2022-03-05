@@ -869,14 +869,14 @@ BlazorServer in .NET Core   step by step
 
 
 ## Videos
-* [Channel9](https://channel9.msdn.com) - MSDN
+* [https://blazor.net](https://blazor.net) - https://blazor.net
 * [Channel9](https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g) - YouTube
 * [Microsoft Learning Center](https://dotnet.microsoft.com/learn/aspnet)
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
 
 ## Community
-* [.NET Rocks](https://www.dotnetrocks.com)
+* [Gitter - Blazor discussion on Gitter](https://gitter.im/aspnet/Blazor)   Discussion on Blazor, a framework for building web apps with .NET and WebAssembly https://blazor.net
 * [Merge Conflict](http://www.mergeconflict.fm/)
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
