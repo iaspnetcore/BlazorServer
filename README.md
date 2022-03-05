@@ -69,7 +69,7 @@ BlazorServer in .NET Core   step by step
 * [Articles](#articles)
 * [Books](#books)
 * [Videos](#videos)
-* [Podcasts](#podcasts)
+* [Community](#community)
 * [SEO Site Checkup](#community)
 
 ## General
@@ -875,113 +875,12 @@ BlazorServer in .NET Core   step by step
  * [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 * [Visual Studio](https://www.youtube.com/user/VisualStudio/channels)
 
-## Podcasts
+## Community
 * [.NET Rocks](https://www.dotnetrocks.com)
 * [Merge Conflict](http://www.mergeconflict.fm/)
 * [The sound of .NET](http://thesoundof.net/?q=.NET+Core)
 
-## SEO Site Checkup
-* [SEO Site Checkup](https://seositecheckup.com/seo-audit/miniblogcore.azurewebsites.net)  - 全方位检查站点是否符合google搜索引擎的规范/)
 
-951
-
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
-
-952
-
-* [ASP.NET](https://forums.asp.net)
-
-953
-
-* [Channel9](https://channel9.msdn.com)
-
-954
-
-* [Awesome .NET open source & community resources](https://discoverdot.net)
-
-955
-
-* [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
-
-956
-
-* [BuiltWithDot.Net](https://builtwithdot.net)
-
-957
-
-* Stack Overflow
-
-958
-
-  *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
-
-959
-
-  *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
-
-960
-
-  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
-
-961
-
-  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
-
-962
-
-  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
-
-963
-
-  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
-
-964
-
-* [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
-
-965
-
-
-
-966
-
-## License
-
-967
-
-
-
-968
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-969
-
-
-
-970
-
-To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.
-
-971
-
-
-
-972。 Blog](https://devblogs.microsoft.com/dotnet/)
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
-* [ASP.NET](https://forums.asp.net)
-* [Channel9](https://channel9.msdn.com)
-* [Awesome .NET open source & community resources](https://discoverdot.net)
-* [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
-* [BuiltWithDot.Net](https://builtwithdot.net)
-* Stack Overflow
-  *  [.NET Core](https://stackoverflow.com/questions/tagged/.net-core)
-  *  [CoreCLR](https://stackoverflow.com/questions/tagged/coreclr)
-  *  [ASP.NET Core](https://stackoverflow.com/questions/tagged/asp.net-core)
-  *  [ASP.NET Core MVC](https://stackoverflow.com/questions/tagged/asp.net-core-mvc)
-  *  [ASP.NET Core 1.0](https://stackoverflow.com/questions/tagged/asp.net-core-1.0)
-  *  [Entity Framework Core](https://stackoverflow.com/questions/tagged/entity-framework-core)
-* [Trending .NET repositories on GitHub today](https://github.com/trending?l=csharp)
 
 ## License
 
