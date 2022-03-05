@@ -74,7 +74,7 @@ BlazorServer in .NET Core   step by step
 
 ## General
 
-* [从输入url到页面展示到底发生了什么](https://www.iaspnetcore.com/Blog/BlogPost/594961f484cd4533806563cf/from-the-input-url-to-the-page-to-show-what-happened/) - 本文的目的是通过了解输入url之后发生的事情来做Seo的知识的总结和扩展.
+* [Choose Wisely between Blazor WebAssembly Hosted deployment & Blazor WebAssembly Standalone deployment & Blazor Server](https://www.iaspnetcore.com/Blog/BlogPost/5df513949f04404d32d8bd24/choose-wisely-between-blazor-webassembly-hosted-deployment-blazor-webassembly-standalone-deployment-blazor-server) - Choose Wisely between Blazor WebAssembly Hosted deployment & Blazor WebAssembly Standalone deployment & Blazor Server.
 * [从网络通信角度谈web性能优化(从输入url到浏览器开始渲染页面中间都发生了什么)](https://www.iaspnetcore.com/Blog/BlogPost/58fda66084cd45328c5c1640/web-performance-optimization-from-the-perspective-of-network-communication) - 本文从另一个维度描述了解输入url之后发生的事情来做Seo的知识的总结和扩展..
 * [[Original]网站前端性能提升优化要点实战记录](https://www.iaspnetcore.com/Blog/BlogPost/574db34b6ceb7e0be0ddad70/summary-of-the-main-points-of-the-performance-improvement-of-the-front-end-of-the-web-site) - 实时更新，优化要点备忘录.
 * [浅谈浏览器http的缓存机制](https://www.iaspnetcore.com/Blog/BlogPost/5949629084cd4533806567d0/the-type-and-mechanism-of-browser-https-caching) - 针对浏览器的http缓存的分析.
