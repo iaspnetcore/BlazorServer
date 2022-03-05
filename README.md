@@ -12,7 +12,7 @@ BlazorServer in .NET Core   step by step
 
 * [General](#general)
 * [Security and Identity](#Security-and-Identity)
-  * [Title](#Title-SEO)
+  * [Cookie Authentication](#Cookie-Authentication)
   * [Body](#body)
   * [Header](#header)
   * [Body body](#Body-body)
@@ -83,10 +83,10 @@ BlazorServer in .NET Core   step by step
 
 ## Security and Identity
 
-### Title SEO
+### Cookie Authentication
 
-* [HTTP headers](https://www.geeksforgeeks.org/http-headers-accept-language/) -This HTTP  header tells the server about all  that the client can understand.`
-* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+* [Cookie Authentication with Asp .Net Core Server-side Blazor 6.x](https://www.iaspnetcore.com/blogpost-6220d7264b638d496550d961-cookie-authentication-with-asp-net-core-server-side-blazor-6x/) -Cookie Authentication with Asp .Net Core Server-side Blazor 6.x.`
+* [Cookie Authentication with Asp .Net Core Server-side Blazor 3.x](https://blazorhelpwebsite.com/ViewBlogPost/36) - Cookie Authentication with Asp .Net Core Server-side Blazor 3.x.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul library.
 * [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET [https://flurl.dev](https://flurl.dev).
