@@ -11,7 +11,7 @@ BlazorServer in .NET Core   step by step
 ## Contents
 
 * [General](#general)
-* [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
+* [Security and Identity](#Security-and-Identity)
   * [Title](#Title-SEO)
   * [Body](#body)
   * [Header](#header)
@@ -81,7 +81,7 @@ BlazorServer in .NET Core   step by step
 * [Yahoo's Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories,come from yahoo.
 
 
-## optimizing-your-site-for-search
+## Security and Identity
 
 ### Title SEO
 
